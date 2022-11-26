@@ -1,4 +1,4 @@
-# Github Explorer for Abstract
+# Github Explorer React Project
 
 Using this repo you can filter Github repositories by React, Vue & Angular topics.
 
