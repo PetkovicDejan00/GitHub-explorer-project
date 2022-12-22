@@ -13,5 +13,5 @@ Install the needed dependencies
 Once the setup is complete, run the project
 
 ```bash
-  npm start
+  npm run dev
 ```
